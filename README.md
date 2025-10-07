@@ -1,5 +1,5 @@
 # Clasificador de Residuos
-Este proyecto es un clasificador de residuos basado en una red neuronal convolucional (CNN) utilizando TensorFlow y Keras. El modelo clasifica imágenes de residuos en seis categorías: Cartón, Vidrio, Metal, Papel, Plástico y Otros. Además, cuenta con una interfaz gráfica simple construida con Tkinter para facilitar la carga y clasificación de imágenes.
+Este proyecto es un clasificador de residuos basado en una red neuronal convolucional (CNN) utilizando TensorFlow y Keras. El modelo clasifica imágenes de residuos en seis categorías: Cartón, Vidrio, Metal, Papel, Plástico y Otros. Además, cuenta con una interfaz gráfica simple construida con streamlit para facilitar la carga y clasificación de imágenes.
 
 ## Requisitos
 Antes de ejecutar el proyecto, asegúrate de tener instalados los siguientes paquetes:
